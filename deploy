@@ -1,0 +1,17 @@
+# Di chuyển vào thư mục chứa Dockerfile
+cd cryptosignal
+
+gcloud secrets create telegram-token --replication-policy="automatic" 
+echo -n "7732399702:AAHHtWhOR-aBusIYLR1jI2GllozuYlBnoJ8" | gcloud secrets versions add telegram-token --data-file=-
+
+gcloud secrets create telegram-chat-id --replication-policy="automatic"
+echo -n "6173457255" | gcloud secrets versions add telegram-chat-id --data-file=-
+
+ProjectID = cryptosignal-443314
+
+
+# 1. Build và push image mới
+gcloud builds submit --tag gcr.io/cryptosignal-443314/volume-alert
+
+# 2. Deploy với timeout dài hơn và các biến môi trường
+gcloud run deploy volume-alert --image gcr.io/cryptosignal-443314/volume-alert --platform managed --region asia-southeast1 --memory 512Mi --cpu 1 --min-instances 0 --max-instances 1 --timeout 3600 --set-env-vars PYTHONUNBUFFERED=1
