@@ -396,3 +396,565 @@
 2024-12-01 08:38:34,530 - WARNING - Volume không hợp lệ: 0.0
 2024-12-01 08:38:34,633 - WARNING - Volume không hợp lệ: 0.0
 2024-12-01 08:39:04,428 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 08:44:04,415 - INFO - Dang quet 348 cap giao dich
+2024-12-01 08:44:11,885 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:18,640 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:18,955 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:19,229 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:20,933 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:23,559 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 08:44:25,808 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:26,736 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:29,140 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:30,016 - INFO - HTTP Request: POST https://api.telegram.org/bot7732399702:AAHHtWhOR-aBusIYLR1jI2GllozuYlBnoJ8/sendMessage "HTTP/1.1 200 OK"
+2024-12-01 08:44:30,017 - INFO - Da gui canh bao cho 1000SHIB/USDT:USDT
+2024-12-01 08:44:31,567 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:33,394 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:36,211 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:40,370 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:44,483 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:45,086 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:46,437 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:49,085 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:50,917 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:51,323 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:53,063 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:44:53,365 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:45:22,682 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 08:50:22,676 - INFO - Dang quet 348 cap giao dich
+2024-12-01 08:50:29,494 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:36,916 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:37,117 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:37,495 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:39,062 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:41,698 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 08:50:44,186 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:44,695 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:46,640 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:47,862 - INFO - HTTP Request: POST https://api.telegram.org/bot7732399702:AAHHtWhOR-aBusIYLR1jI2GllozuYlBnoJ8/sendMessage "HTTP/1.1 200 OK"
+2024-12-01 08:50:47,863 - INFO - Da gui canh bao cho 1000SHIB/USDT:USDT
+2024-12-01 08:50:49,144 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:51,680 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:54,015 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:50:58,457 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:51:02,784 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:51:02,885 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:51:05,144 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:51:07,069 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:51:08,923 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:51:09,440 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:51:11,486 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:51:11,590 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:51:41,276 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 08:56:41,266 - INFO - Dang quet 348 cap giao dich
+2024-12-01 08:56:48,210 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:56:55,176 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:56:55,696 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:56:56,172 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:56:58,721 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:01,309 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 08:57:03,108 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:03,320 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:05,528 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:07,056 - INFO - HTTP Request: POST https://api.telegram.org/bot7732399702:AAHHtWhOR-aBusIYLR1jI2GllozuYlBnoJ8/sendMessage "HTTP/1.1 200 OK"
+2024-12-01 08:57:07,057 - INFO - Da gui canh bao cho 1000SHIB/USDT:USDT
+2024-12-01 08:57:08,322 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:11,191 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:13,315 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:18,018 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:21,843 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:22,253 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:24,553 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:27,071 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:28,592 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:28,693 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:30,764 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:57:30,865 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 08:58:01,058 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 09:03:01,045 - INFO - Dang quet 348 cap giao dich
+2024-12-01 09:03:07,908 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:15,457 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:15,947 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:16,051 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:18,873 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:21,030 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 09:03:23,193 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:23,400 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:25,951 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:28,109 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:31,106 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:32,582 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:37,787 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:41,689 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:41,899 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:43,959 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:45,950 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:48,673 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:48,776 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:50,881 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:03:50,994 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:04:21,714 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 09:09:21,704 - INFO - Dang quet 348 cap giao dich
+2024-12-01 09:09:28,690 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:36,051 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:36,368 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:36,757 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:39,043 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:41,833 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 09:09:43,692 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:44,003 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:45,554 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:48,407 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:50,382 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:52,176 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:09:57,497 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:10:01,064 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:10:01,281 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:10:04,163 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:10:06,132 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:10:07,750 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:10:07,850 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:10:09,813 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:10:10,136 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:10:40,295 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 09:15:40,303 - INFO - Dang quet 348 cap giao dich
+2024-12-01 09:15:47,769 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:15:54,523 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:15:54,625 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:15:55,497 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:15:57,086 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:15:59,910 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 09:16:02,181 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:03,080 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:04,536 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:07,533 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:08,887 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:11,497 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:15,672 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:20,583 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:20,798 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:22,348 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:25,496 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:26,777 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:27,203 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:29,437 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:16:29,980 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:17:00,068 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 09:22:00,058 - INFO - Dang quet 348 cap giao dich
+2024-12-01 09:22:07,593 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:14,089 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:14,305 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:14,680 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:16,706 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:19,702 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 09:22:21,531 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:22,138 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:24,515 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:26,149 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:28,940 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:30,861 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:35,291 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:39,540 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:39,949 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:42,004 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:44,188 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:46,247 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:46,755 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:48,290 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:22:48,389 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:23:18,423 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 09:28:18,429 - INFO - Dang quet 348 cap giao dich
+2024-12-01 09:28:25,859 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:32,388 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:32,692 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:33,743 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:36,249 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:38,424 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 09:28:40,350 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:40,858 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:42,731 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:44,503 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:47,515 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:49,566 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:53,354 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:57,892 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:58,503 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:28:59,796 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:29:02,057 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:29:04,893 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:29:04,992 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:29:06,351 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:29:06,553 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:29:36,381 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 09:34:36,387 - INFO - Dang quet 348 cap giao dich
+2024-12-01 09:34:43,231 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:34:50,673 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:34:51,110 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:34:51,400 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:34:53,259 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:34:56,136 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 09:34:58,268 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:34:58,569 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:00,549 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:03,406 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:05,421 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:07,232 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:11,741 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:15,580 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:15,681 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:17,672 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:20,737 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:22,419 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:22,519 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:24,417 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:24,920 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:35:54,422 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 09:40:54,429 - INFO - Dang quet 348 cap giao dich
+2024-12-01 09:41:02,274 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:08,274 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:08,382 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:09,741 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:11,218 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:13,352 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 09:41:16,045 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:16,756 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:18,667 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:20,593 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:22,441 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:25,406 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:30,021 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:33,885 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:34,090 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:36,260 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:38,801 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:40,111 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:41,048 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:42,297 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:41:43,015 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:42:12,726 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 09:47:12,732 - INFO - Dang quet 348 cap giao dich
+2024-12-01 09:47:21,224 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:27,144 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:27,478 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:28,026 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:29,862 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:31,639 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 09:47:34,012 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:34,564 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:36,701 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:38,566 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:41,128 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:44,369 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:48,841 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:53,147 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:53,692 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:56,125 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:47:58,680 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:48:00,350 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:48:00,793 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:48:02,502 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:48:03,302 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:48:36,239 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 09:53:36,244 - INFO - Dang quet 348 cap giao dich
+2024-12-01 09:53:43,694 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:53:51,009 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:53:51,112 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:53:51,818 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:53:54,584 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:53:56,394 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 09:53:58,775 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:53:58,985 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:01,827 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:03,498 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:05,733 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:08,192 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:13,025 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:17,083 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:17,188 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:19,070 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:21,392 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:23,346 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:24,075 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:25,607 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:26,018 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 09:54:55,234 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 09:59:55,233 - INFO - Dang quet 348 cap giao dich
+2024-12-01 10:00:02,440 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:09,678 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:09,782 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:10,554 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:12,849 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:15,470 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 10:00:16,918 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:17,622 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:19,421 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:21,480 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:24,066 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:25,926 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:30,452 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:34,957 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:35,161 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:36,807 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:39,306 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:41,344 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:41,958 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:43,751 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:00:44,060 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:01:13,606 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 10:06:13,610 - INFO - Dang quet 348 cap giao dich
+2024-12-01 10:06:21,533 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:28,703 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:28,803 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:29,233 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:31,348 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:34,756 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 10:06:36,614 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:37,468 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:39,364 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:41,528 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:43,649 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:46,208 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:50,810 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:54,483 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:54,689 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:56,983 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:06:59,101 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:07:02,169 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:07:02,279 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:07:03,959 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:07:04,401 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:07:33,822 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 10:12:33,832 - INFO - Dang quet 348 cap giao dich
+2024-12-01 10:12:41,660 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:12:47,797 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:12:48,421 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:12:49,256 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:12:50,494 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:12:53,545 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 10:12:56,267 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:12:56,788 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:12:58,733 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:01,279 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:02,999 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:05,150 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:10,098 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:14,641 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:14,744 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:16,855 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:18,357 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:21,122 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:21,327 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:22,865 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:23,377 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:13:52,855 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 10:18:52,863 - INFO - Dang quet 348 cap giao dich
+2024-12-01 10:18:59,731 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:06,831 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:06,933 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:07,033 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:09,843 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:12,551 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 10:19:13,996 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:15,002 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:17,205 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:19,223 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:21,249 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:23,182 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:27,550 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:32,153 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:32,458 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:34,002 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:36,466 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:38,218 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:39,023 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:41,206 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:19:41,309 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:20:11,234 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 10:25:11,243 - INFO - Dang quet 348 cap giao dich
+2024-12-01 10:25:18,333 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:26,152 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:26,432 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:26,534 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:29,196 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:31,670 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 10:25:33,091 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:33,208 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:35,360 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:38,395 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:40,099 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:42,786 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:47,587 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:51,376 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:51,595 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:54,112 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:56,093 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:58,251 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:25:58,656 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:26:00,238 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:26:01,059 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:26:31,452 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 10:31:31,462 - INFO - Dang quet 348 cap giao dich
+2024-12-01 10:31:40,093 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:31:47,242 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:31:48,346 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:31:48,632 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:31:50,468 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:31:53,841 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 10:31:55,446 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:31:55,652 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:31:58,121 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:00,407 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:02,713 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:04,310 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:08,954 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:13,388 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:13,725 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:16,038 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:18,241 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:19,833 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:20,056 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:22,346 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:22,590 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:32:53,336 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 10:37:53,342 - INFO - Dang quet 348 cap giao dich
+2024-12-01 10:38:02,073 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:08,952 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:09,057 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:09,170 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:11,512 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:13,679 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 10:38:15,424 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:16,273 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:17,727 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:20,527 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:21,912 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:25,060 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:29,371 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:33,219 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:33,436 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:35,544 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:37,715 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:40,511 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:40,830 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:42,182 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:38:42,394 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:39:12,777 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 10:44:12,777 - INFO - Dang quet 348 cap giao dich
+2024-12-01 10:44:20,701 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:26,955 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:27,335 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:27,483 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:28,882 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:31,710 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 10:44:33,365 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:33,664 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:35,299 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:38,422 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:39,880 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:42,834 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:46,311 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:50,780 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:50,881 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:53,681 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:56,069 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:58,196 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:58,397 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:44:59,740 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:45:00,244 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:45:29,622 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 10:50:29,634 - INFO - Dang quet 348 cap giao dich
+2024-12-01 10:50:36,723 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:50:43,690 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:50:43,797 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:50:44,490 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:50:46,037 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:50:48,724 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 10:50:51,444 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:50:51,769 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:50:53,140 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:50:56,299 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:50:57,766 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:50:59,836 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:51:04,581 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:51:09,033 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:51:09,653 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:51:10,896 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:51:13,815 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:51:15,273 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:51:15,900 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:51:17,817 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:51:18,129 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:51:48,298 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 10:56:48,301 - INFO - Dang quet 348 cap giao dich
+2024-12-01 10:56:55,434 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:02,401 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:02,720 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:03,589 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:05,508 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:08,228 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 10:57:09,741 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:10,624 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:12,846 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:14,752 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:17,325 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:19,426 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:23,670 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:28,125 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:28,428 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:30,224 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:32,784 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:34,523 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:35,470 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:36,888 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:57:37,196 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 10:58:06,946 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 11:03:06,956 - INFO - Dang quet 348 cap giao dich
+2024-12-01 11:03:14,940 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:22,054 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:22,256 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:22,358 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:24,621 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:26,716 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 11:03:28,668 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:28,974 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:31,967 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:33,497 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:36,080 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:37,606 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:42,866 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:46,732 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:47,144 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:49,221 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:51,872 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:53,284 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:53,587 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:55,436 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:03:55,539 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:04:10,136 - INFO - HTTP Request: POST https://api.telegram.org/bot7732399702:AAHHtWhOR-aBusIYLR1jI2GllozuYlBnoJ8/sendMessage "HTTP/1.1 200 OK"
+2024-12-01 11:04:10,139 - INFO - Da gui canh bao cho ZRO/USDT:USDT
+2024-12-01 11:04:26,426 - INFO - Hoan thanh quet. Doi 5 phut...
+2024-12-01 11:09:26,430 - INFO - Dang quet 348 cap giao dich
+2024-12-01 11:09:34,003 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:09:40,447 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:09:40,654 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:09:41,303 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:09:43,237 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:09:46,863 - ERROR - Loi khi lay du lieu BTCST/USDT:USDT: binance {"code":-1122,"msg":"Invalid symbol status."}
+2024-12-01 11:09:48,596 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:09:48,901 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:09:51,105 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:09:53,358 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:09:55,214 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:09:57,171 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:10:01,987 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:10:05,660 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:10:06,475 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:10:08,338 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:10:10,609 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:10:12,556 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:10:12,967 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:10:15,273 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:10:15,387 - WARNING - Volume không hợp lệ: 0.0
+2024-12-01 11:10:29,756 - INFO - HTTP Request: POST https://api.telegram.org/bot7732399702:AAHHtWhOR-aBusIYLR1jI2GllozuYlBnoJ8/sendMessage "HTTP/1.1 200 OK"
+2024-12-01 11:10:29,757 - INFO - Da gui canh bao cho ZRO/USDT:USDT
+2024-12-01 11:10:46,443 - INFO - Hoan thanh quet. Doi 5 phut...
